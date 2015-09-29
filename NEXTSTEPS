@@ -1,0 +1,9 @@
+XSLT in the browser - promising
+  FGDC works
+  ISO/ISO2 kinda work but some issues
+  DC did not seem to
+  Implementing would require:
+    resolving issues for each metadata types
+    creating a wcodp page that takes a xml type and metadata url as parameters and renders the HTML
+    add link to results view
+    Pulls xml type from solr result - "sys.metadatatype.key_s": "iso19115-2"
